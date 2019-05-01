@@ -1,0 +1,11 @@
+D:\tugas pemrog\membuat class\membuat class\bin\Debug\netcoreapp2.1\membuat class.deps.json
+D:\tugas pemrog\membuat class\membuat class\bin\Debug\netcoreapp2.1\membuat class.runtimeconfig.json
+D:\tugas pemrog\membuat class\membuat class\bin\Debug\netcoreapp2.1\membuat class.runtimeconfig.dev.json
+D:\tugas pemrog\membuat class\membuat class\bin\Debug\netcoreapp2.1\membuat class.dll
+D:\tugas pemrog\membuat class\membuat class\bin\Debug\netcoreapp2.1\membuat class.pdb
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.csprojAssemblyReference.cache
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.csproj.CoreCompileInputs.cache
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.AssemblyInfoInputs.cache
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.AssemblyInfo.cs
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.dll
+D:\tugas pemrog\membuat class\membuat class\obj\Debug\netcoreapp2.1\membuat class.pdb
